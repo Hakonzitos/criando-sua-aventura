@@ -1,0 +1,38 @@
+body {
+    background-color:#423b33;
+    color: white;
+    font-family:"Metamorphous", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    margin: 0;
+}
+
+button{
+
+background-color:#232221;
+color: white;
+font-family: "Metamorphous", serif;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
+main {
+
+    text-align: center;
+    max-width: 90%;
+}
+
+
+img{
+    max-width: 90%
+
+
+}
